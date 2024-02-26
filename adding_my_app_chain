@@ -1,0 +1,8 @@
+{
+  "name": "coin86",
+  "logo": "https://ibb.co/y6LdHqT",
+  "rpc_url": "https://rpc.coin86.xyz",
+  "explorer_url": "http://IP:4000",
+  "metrics_endpoint": "https://metrics.coin86.xyz",
+  "id": "0326633f-635b-4e6d-bbe4-90735c028660"
+}
